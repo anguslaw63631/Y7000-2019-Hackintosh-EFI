@@ -1,6 +1,6 @@
 ## Y7000 2019 Hackintosh EFI
 
-modify from https://github.com/xiaoMGitHub/LEGION_Y7000Series_Hackintosh
+modify from https://github.com/xiaoMGitHub/LEGION_Y7000Series_Hackintosh v4.0.0
 
 
 Update OpenCore to 0.8.8
@@ -17,4 +17,4 @@ i7-9750h(uhd630)\
 1660ti(blocked)\
 16gb ddr4\
 nvme pm981a 1tb(blocked)\
-sata3 mx500\
+sata3 mx500
